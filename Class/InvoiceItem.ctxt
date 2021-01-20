@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=InvoiceItem
+comment1.params=id\ desc\ qty\ unitPrice
+comment1.target=InvoiceItem(java.lang.String,\ java.lang.String,\ int,\ double)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ getID()
+comment3.params=qty
+comment3.target=void\ setQty(int)
+comment4.params=
+comment4.target=java.lang.String\ getDesc()
+comment5.params=
+comment5.target=int\ getQty()
+comment6.params=
+comment6.target=double\ getUnitPrice()
+comment7.params=unitPrice
+comment7.target=void\ setUnitPrice(double)
+comment8.params=
+comment8.target=double\ getTotal()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

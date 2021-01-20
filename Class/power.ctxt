@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=power
+comment1.params=m\ n
+comment1.target=int\ power(int,\ int)
+comment2.params=m
+comment2.target=int\ power(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

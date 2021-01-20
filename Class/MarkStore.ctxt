@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MarkStore
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scores
+comment2.target=void\ totalAverageStd(double[][])
+comment3.params=scores
+comment3.target=void\ totalAverageAssignments(double[][])
+numComments=4
